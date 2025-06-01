@@ -6,7 +6,7 @@
 <h3 align="center">A junior developer</h3>
 
 
-   - 🌱 I’m currently learning **Data Analytics** and **React.js**
+   - 🌱 I’m currently learning **Data Analytics**
 
    - 📫 How to reach me **mira.shatenova@gmail.com**
 
